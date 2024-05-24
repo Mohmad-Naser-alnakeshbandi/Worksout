@@ -14,7 +14,7 @@ classes/
 jxl.log
 jmx.log
 derby.log
-
+target
 # Gradle artifacts
 .gradle
 .gradletasknamecache
